@@ -19,44 +19,16 @@ Each notebook follows a structured analysis workflow similar to what junior data
 - Matplotlib
 - Jupyter Notebook
 
-🔍 Analysis Tasks Performed
+## 📂 Project Structure
+- `notebooks/` — Jupyter notebooks containing analysis workflows
+- `README.md` — Project overview and documentation
+- `LICENSE` — MIT License
 
-Loaded and explored structured datasets
+## 🔍 Example Analysis
+One project explores a real-world dataset to:
+- Generate summary statistics
+- Identify key trends and anomalies
+- Visualize distributions and relationships between variables
 
-Generated summary statistics (mean, median, distribution, variability)
-
-Performed exploratory data analysis (EDA)
-
-Identified trends, patterns, and anomalies
-
-Created basic visualizations to support insights
-
-Interpreted results in a clear, business-oriented way
-
-📊 Key Results
-
-Identified meaningful trends and relationships within datasets
-
-Produced statistical summaries to support analysis
-
-Visualized insights using charts and plots
-
-Translated numerical findings into understandable insights
-
-🎯 Skills Demonstrated
-
-Exploratory Data Analysis (EDA)
-
-Descriptive statistics
-
-Data interpretation and insight generation
-
-Data visualization with Matplotlib
-
-Analytical thinking and structured problem-solving
-
-Clear communication of findings
-
-🚀 Outcome
-
+## 🚀 Outcome
 This repository demonstrates practical data analysis skills suitable for entry-level data analyst roles, with a focus on turning data into insights rather than just writing code.
