@@ -15,7 +15,7 @@ These notebooks align with Junior Data Analyst and Graduate Analyst roles by dem
 ## 📁 Notebooks Included
 
 ### 🔹 Sales Performance Analysis
-**File:** [01_sales_data_analysis.ipynb](01_sales_data_analysis.ipynb)  
+**File:** [sales_performance_analysis.ipynb](notebooks/sales_performance_analysis.ipynb)  
 **Business Focus:** Analyze retail sales data to understand revenue drivers, product performance, and sales trends over time.
 
 **Key Skills Demonstrated:**
@@ -33,7 +33,7 @@ These notebooks align with Junior Data Analyst and Graduate Analyst roles by dem
 - Generated actionable insights for inventory and sales planning
 
 ### 🔹 Employee Salary Exploratory Data Analysis
-**File:** [employee_salary_eda.ipynb](employee_salary_eda.ipynb)  
+**File:** [employee_salary_eda.ipynb](notebooks/employee_salary_eda.ipynb)  
 **Business Focus:** Explore employee salary patterns across departments and experience levels to support compensation and workforce planning decisions.
 
 **Key Skills Demonstrated:**
