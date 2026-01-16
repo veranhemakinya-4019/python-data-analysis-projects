@@ -1,158 +1,120 @@
-<<<<<<< HEAD
-# Python Data Analysis – Sales Performance Insights
+# Vera Nhema Kinya – Data Analyst Portfolio
 
-## 📌 Project Overview
-This project demonstrates an end-to-end data analysis workflow using Python to extract actionable business insights from a sales dataset. The analysis covers data cleaning, exploratory data analysis (EDA), visualization, and insight-driven recommendations.
+## 🚀 Portfolio Summary (30-Second Read)
+I am a Junior Data Analyst with a strong foundation in Applied Statistics and IT.  
+My portfolio demonstrates hands-on experience in:
 
-The goal is to show how raw data can be transformed into clear insights that support data-driven decision-making.
+- Cleaning and preparing real-world datasets
+- Performing exploratory data analysis (EDA)
+- Writing SQL queries to answer business questions
+- Creating clear visualizations and Excel reports
+- Translating data into actionable insights
 
----
-
-## 🧠 Business Problem
-A retail business wants to understand its sales performance across products, categories, and time periods in order to:
-- Identify high- and low-performing products
-- Detect sales trends and seasonality
-- Improve revenue and operational decisions
+All projects follow a practical, **job-oriented data analysis workflow**.
 
 ---
 
-## 🛠 Tools & Technologies
-- **Python**
-- **Pandas & NumPy** – data manipulation and analysis
-- **Matplotlib & Seaborn** – data visualization
-- **Jupyter Notebook**
+## 👋 About Me
+🎓 BSc. Applied Statistics with IT  
+💼 Junior Data Analyst | Python • SQL • Excel  
+📍 Kenya 🇰🇪  
+
+I transform raw, messy data into clear insights using Python, SQL, Excel, and statistical analysis — with a strong focus on **data cleaning, exploratory analysis, and business reporting**.
 
 ---
 
-## 📊 Dataset Description
-The dataset contains transactional sales data including:
-- Order date
-- Product and category information
-- Sales quantities and revenue
+## 🔧 Skills & Tools
 
-*(Dataset used for educational and analytical practice.)*
-
----
-
-## 🔍 Analysis Workflow
-1. **Data Understanding & Validation**
-   - Inspected structure, data types, and completeness
-2. **Data Cleaning**
-   - Handled missing values and duplicates
-   - Corrected data types and formatting
-3. **Exploratory Data Analysis (EDA)**
-   - Analyzed sales distribution and trends
-   - Compared performance across categories and products
-4. **Visualization**
-   - Created charts to highlight trends, patterns, and comparisons
-5. **Insight Generation**
-   - Interpreted findings in a business context
+**Programming & Querying:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Excel  
+**Visualization & Reporting:** Matplotlib, Seaborn, Excel Charts  
+**Statistics:** Descriptive statistics, probability, analytical thinking  
+**Workflow & Version Control:** Git, GitHub, Jupyter Notebook  
 
 ---
 
-## 📈 Key Insights
-- Certain products consistently outperform others in revenue contribution
-- Sales show noticeable trends across time periods
-- A small subset of products accounts for a large share of total revenue
-- Some categories underperform and may require strategic review
+## 📌 Featured Projects
 
----
+### 1. Employee Salary Exploratory Data Analysis
+**Objective:** Explore employee salary patterns across departments and experience levels.  
 
-## ✅ Results
-The analysis successfully converted raw sales data into structured insights that clearly highlight performance drivers and areas for improvement.
-
----
-
-## 💡 Business Recommendations
-- Focus marketing and inventory efforts on top-performing products
-- Review pricing or promotion strategies for underperforming categories
-- Use trend analysis to improve demand forecasting and planning
-- Regularly monitor sales performance using similar analytical workflows
-
----
-
-## 📁 Repository Structure
-├── data/
-│ ├── raw/
-│ └── cleaned/
-├── notebooks/
-│ └── sales_analysis.ipynb
-├── visuals/
-│ └── charts_and_plots.png
-└── README.md
-
-
----
-
-## 👩‍💻 Author
-**Vera Nhema Kinya**  
-Junior Data Analyst | Python • SQL • Excel  
-📍 Kenya 🇰🇪
-=======
-# Python Data Analysis Projects
-
-This repository contains practical Python data analysis projects focused on transforming raw datasets into clear, actionable business insights using exploratory data analysis (EDA), visualization, and analytical reasoning.
-
----
-
-## Employee Salary Exploratory Data Analysis
-
-### Project Overview
-This project explores employee salary patterns across departments and experience levels using Python and Pandas. The goal is to understand how salaries vary and to demonstrate core EDA techniques commonly used in real-world data analysis tasks.
-
-### Key Skills Demonstrated
+**Key Skills Demonstrated:**
 - Data cleaning and preparation
 - Exploratory Data Analysis (EDA)
 - Frequency and percentage analysis using Pandas
-- Insight communication using markdown
+- Insight communication with markdown
 
-### Tools Used
-- Python
-- Pandas
-- Jupyter Notebook
+**Tools:** Python, Pandas, Jupyter Notebook  
 
-### Key Analyses
-- Salary distribution across departments
-- Frequency counts using `value_counts`
-- Percentage contribution analysis
-- Basic descriptive statistics
+**Next Steps:** Groupby analysis, salary and revenue trend exploration  
 
-### Next Steps
-- Groupby analysis by department and experience level
-- Salary trend exploration
-- Deeper statistical comparisons
+**Repository:** `notebooks/employee_salary_eda.ipynb`  
 
 ---
 
-## Sales Data Analysis Project
+### 2. Sales Data Analysis Project
+**Objective:** Explore retail sales data to uncover revenue trends, product performance, and actionable business insights.  
 
-### Overview
-This project explores a retail sales dataset using Python to uncover revenue trends, product performance, and actionable business insights that can support decision-making.
-
-### Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-
-### Key Analyses
+**Key Analyses:**
 - Revenue by product
 - Sales trends over time
-- Units sold comparison across products
+- Units sold comparison  
 
-### Key Insights
-- High-value products drive the majority of total revenue
+**Key Insights:**
+- High-value products drive most revenue
 - Unit sales and revenue do not always align
-- Time-based analysis reveals noticeable sales variability
+- Time-based analysis reveals sales variability  
 
-### Conclusion
-These projects demonstrate my ability to clean and analyze data, perform exploratory analysis, create clear visualizations, and translate data findings into meaningful business insights using Python.
+**Conclusion:** Demonstrates ability to **clean data, perform EDA, create clear visualizations, and translate data into business insights**  
+
+**Repository:** `notebooks/01_sales_data_analysis.ipynb`  
 
 ---
 
-👩‍💻 **Author**  
-**Vera Nhema Kinya**  
-Junior Data Analyst | Python • SQL • Excel  
-📍 Kenya 🇰🇪
+### 3. Python Data Cleaning Project
+**Objective:** Clean raw datasets to make them analysis-ready.  
+**Skills:** Handling missing values, duplicates, formatting, and incorrect data types  
+**Repository:** `python-data-cleaning-project`  
 
->>>>>>> f82e4f9 (Add employee salary EDA and clean sales analysis notebook)
+---
+
+### 4. SQL Data Analysis Practice
+**Objective:** Write SQL queries to answer real business questions.  
+**Skills:** Filtering, joining, aggregation, grouping, and reporting  
+**Repository:** `sql-data-analysis-practice`  
+
+---
+
+### 5. Statistics for Data Analysis
+**Objective:** Apply descriptive statistics and probability to interpret datasets.  
+**Skills:** Analytical thinking, statistical reasoning, insight generation  
+**Repository:** `statistics-for-data-analysis`  
+
+---
+
+## 💡 What I Can Do
+- Clean and preprocess messy datasets for analysis  
+- Perform exploratory data analysis (EDA) and statistical summaries  
+- Write SQL queries to answer real business questions  
+- Create clear visualizations and reports for decision-making  
+- Translate data findings into actionable insights  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Pandas for efficient data cleaning  
+- SQL for analytics and reporting  
+- EDA techniques and visualization storytelling  
+- Data storytelling and insight communication  
+
+---
+
+## 📫 Connect With Me
+📧 Email: [veranhemakinya@gmail.com](mailto:veranhemakinya@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)  
+💬 Telegram: [https://t.me/vera_Data_analyst](https://t.me/vera_Data_analyst)  
+🐦 X (Twitter): [@veranhema](https://twitter.com/veranhema)  
+
+---
+
+⭐ This GitHub profile documents my **learning journey** and showcases **practical projects aligned with entry-level and junior data analyst roles**.
