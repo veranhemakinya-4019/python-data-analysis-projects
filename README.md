@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vera Nhema Kinya – Data Analyst Portfolio
 
 🚀 **Portfolio Summary (30-Second Read)**  
@@ -136,4 +135,4 @@ This project explores a retail sales dataset using Python to uncover revenue tre
 
 ## Conclusion
 This project demonstrates my ability to clean data, perform exploratory analysis, create clear visualizations, and translate data into business insights.
->>>>>>> 560549a (Fix notebook data paths and clean project structure)
+
