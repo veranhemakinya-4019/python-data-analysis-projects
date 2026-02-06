@@ -85,8 +85,6 @@ Keywords: Data cleaning, EDA, salary analysis, descriptive statistics
 🔗 Notebook: notebooks/employee_salary_eda.ipynb
 ---
 
-### ---
-
 ### 2️⃣ Sales Performance Analysis
 **Objective:** Analyze retail sales data to uncover revenue trends, product performance, and actionable business insights.
 
